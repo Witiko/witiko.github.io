@@ -6,8 +6,6 @@ tags:
   - travel
 ---
 
- ![title image](/images/20160712-231446.jpg "Arnold Schwarzenegger taking a selfie")
-
 Today we are taking some much-needed rest after the long flight before heading
 to Arizona. And what a better place to rest than the Hollywood Boulevard.
 
