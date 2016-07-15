@@ -1,6 +1,6 @@
 ---
 layout: post
-title: In Hollywood
+title: Hollywood
 tags:
   - usa2016
   - travel

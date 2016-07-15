@@ -13,7 +13,7 @@ then at the Los Angeles airport at 21:30 (GMT-7).
 
  {% include image.html url="2016-07-11-cz.png" description="From Velešín to the Prague Airport" %}
 
-Picked up an SUV at the Alamo Car Rental and checked in at the Americas
+We picked up an SUV at the Alamo Car Rental and checked in at the Americas
 Best Value Inn, LA.
 
  {% include image.html url="2016-07-11-la.png" description="From the LA airport to the hotel" %}
