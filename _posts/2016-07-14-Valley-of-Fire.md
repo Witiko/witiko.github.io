@@ -6,7 +6,7 @@ tags:
   - travel
 ---
 
-Today, we are moving from California to Utah across the southern rim of Nevada and the northern rim of Arizona and we are visiting the Valley of Fire state part along the way.
+Today, we are moving from California to Utah across the southern rim of Nevada and the northern rim of Arizona and we are visiting the Valley of Fire state park along the way.
 
  {% include image.html url="20160714-214413.jpg" description="Red sandstone rocks near the western entrance to the park" %}
  {% include image.html url="20160714-214921.jpg" description="A beehive-shaped red sandstone rock near the western entrance to the park" %}
