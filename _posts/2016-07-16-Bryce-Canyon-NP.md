@@ -16,9 +16,9 @@ Today, we are headed to the Bryce Canyon national park.
   {% include image.html url="20160716-190128.jpg" description="The Thor's Hammer hoodoo at the Navajo Loop Trail" %}
   {% include image.html url="20160716-192650.jpg" description="A ground squirrel at the Navajo Loop Trail" %}
 
-During the rest of the day, we transitioned to Page, Arizona.
+During the rest of the day, we moved to Page, Arizona.
 
   {% include image.html url="20160717-021958.jpg" description="A sunset at the trail to the Horseshoe Bend" %}
-  {% include image.html url="20160717-023315.jpg" description="A sunset at the Horseshoe Bend" %}
+  {% include image.html url="20160717-024434.jpg" description="A sunset at the Horseshoe Bend" %}
 
 Our next stop will be the Antelope Canyons.
