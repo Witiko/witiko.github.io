@@ -12,7 +12,7 @@ Today, we are headed to the Grand Canyon National Park on a hike along the south
   {% include image.html url="20160718-194535.jpg" description="The Grand Canyon as seen from the Hermit's Rest point" %}
   {% include image.html url="20160718-195727.jpg" description="The Grand Canyon as seen from the southern rim" %}
   {% include image.html url="20160718-200047.jpg" description="The Cliffrose" %}
-  {% include image.html url="20160718-230430.jpg" description="A rainstorm on the northern rim of the Grand Canyon" %}
+  {% include image.html url="20160718-230430.jpg" description="A rainstorm at the northern rim of the Grand Canyon" %}
   {% include image.html url="20160718-230500.jpg" description="The Grand Canyon as seen from the visitors center" %}
   {% include image.html url="20160718-232127.jpg" description="The Grand Canyon after a rainstorm" %}
   {% include image.html url="20160718-232317.jpg" description="The interior of the Desert View watchtower" %}

@@ -6,7 +6,7 @@ tags:
   - travel
 ---
 
-Today, we are headed to the Antelope Canyons in the Navajoland. The entrance fees are ridiculous ($46 + $8 tribal fee per a visitor) and the ride on the back of an all-terain vehicle to the entrance to the upper canyon is highly uncomfortable with all the sand flying around, but the sights are well worth the trouble.
+Today, we are headed to the Antelope Canyons in the Navajo Tribal Park. The entrance fees are pretty steep ($46 + $8 tribal fee per a visitor) and the ride on the back of an all-terain vehicle to the entrance to the upper canyon is fairly uncomfortable with all the sand flying around. The sights, however, are well worth the trouble.
 
   {% include image.html url="20160717-171831.jpg" description="The crevices of the Upper Antelope Canyon" %}
   {% include image.html url="20160717-174518.jpg" description="The crevices of the Upper Antelope Canyon" %}
@@ -15,7 +15,7 @@ Today, we are headed to the Antelope Canyons in the Navajoland. The entrance fee
   {% include image.html url="20160717-180148.jpg" description="The end of the Upper Antelope Canyon" %}
   {% include image.html url="20160717-182619.jpg" description="A Shelby GT-H on the Upper Antelope Canyon parking lot" %}
 
-The entrance to the lower canyon is closer to the parking lot, so we can approach it on foot. The entrance fees are also much more reasonable ($20 + $8 tribal fee per a visitor), the canyon is equally stuning but longer, and there is a cafe at the parking lot. If you are time-pressed, I suggest you skip the upper canyon.
+The entrance to the lower canyon is closer to the parking lot, so we could approach it on foot. The entrance fees are much more reasonable ($20 + $8 tribal fee per a visitor), the canyon is equally stuning but longer, and there is a cafe at the parking lot. If you are time-pressed, I suggest you skip the upper canyon in favour of the lower one.
 
   {% include image.html url="20160717-200834.jpg" description="Near the entrance to the Lower Antelope Canyon" %}
   {% include image.html url="20160717-201945.jpg" description="Near the entrance to the Lower Antelope Canyon" %}
@@ -27,4 +27,4 @@ After leaving the Antelope Canyons, we moved to the nearby Glen Canyon Dam. The 
 
   {% include image.html url="20160717-224652.jpg" description="Lake Powell and the Glen Canyon Dam" %}
 
-After visiting the dam visitors center and enjoying the sights, we moved to the Valle city. Valle is located right at the southern rim of the Grand Canyon, which we are going to visit tomorrow.
+After visiting the dam visitors center and enjoying the sights of the dam, the lake, and the adjacent Navajo Bridge, we moved to the Valle city. Valle is located right at the southern rim of the Grand Canyon, which we are going to visit tomorrow.
