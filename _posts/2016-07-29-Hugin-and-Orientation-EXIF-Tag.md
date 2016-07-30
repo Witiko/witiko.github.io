@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hugin Doesn't Play Nice With the Orientation EXIF Tag
+title: Hugin Doesn't Abide the Orientation EXIF Tag
 tags:
   - linux
   - snippet
@@ -19,12 +19,11 @@ The issue I encountered is this -- some of the tools in the Hugin toolchain igno
 # Requires the `exiftool` and `libjpeg-turbo-progs` packages.
 for FILE; do
   ORIENTATION=`exiftool -t -s -n -IFD{0,1}:Orientation "$FILE" |
-    awk '{ print $2 }'` || exit 1
-  [[ $ORIENTATION = 1 ]] && continue
-  FLAGS="`case $ORIENTATION in
+    head -1 | awk '{ print $2 }'` || exit 1
+  [[ -z $ORIENTATION || $ORIENTATION = 1 ]] && continue
+  case $ORIENTATION in
     2) echo -flip horizontal ;;
-    3) echo -flip horizontal
-       echo -flip vertical   ;;
+    3) echo -rotate 180      ;;
     4) echo -flip vertical   ;;
     5) echo -rotate 90
        echo -flip horizontal ;;
@@ -32,11 +31,12 @@ for FILE; do
     7) echo -flip horizontal
        echo -rotate 90       ;;
     8) echo -rotate 270      ;;
-    *) exit 2                ;;
-  esac`" || exit $?
-  jpegtran -copy all -perfect $FLAGS -outfile "$FILE" "$FILE"     || exit 3
+    *) exit 3                ;;
+  esac | while read FLAGS; do
+    jpegtran -copy all -perfect $FLAGS -outfile  "$FILE" "$FILE"
+  done || exit $?
   exiftool -overwrite_original -n -IFD{0,1}:Orientation=1 "$FILE" || exit 4
 done
 ```
 
-Hopefully, some of you will also find this workaround useful.
+Hopefully, you will also find this workaround useful.
