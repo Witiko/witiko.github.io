@@ -10,7 +10,7 @@ Today we are taking some much-needed rest after the long flight before heading
 to Arizona. And what a better place to rest than the Hollywood Boulevard.
 
  {% include image.html url="20160712-131902.jpg" rotation="22.66" description="The Hollywood Sign on Mt Lee as seen from the Hollywood and Highland Center" %}
- {% include image.html url="20160712-132738.jpg" rotation="22,6622,6619.03" description="The Hollywood and Highland Center" %}
+ {% include image.html url="20160712-132738.jpg" rotation="19.03" description="The Hollywood and Highland Center" %}
  {% include image.html url="20160712-223054.jpg" rotation="25.98" description="Hollywood Boulevard as seen from the Hollywood and Highland Center" %}
  {% include image.html url="20160712-224612.jpg" rotation="0" description="A Star Trek: Beyond chalk drawing in front of the Mann's Chinese Theatre" %}
  {% include image.html url="20160712-225114.jpg" rotation="-27.06" description="The Mann's Chinese Theatre" %}
