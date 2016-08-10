@@ -8,9 +8,9 @@ tags:
 
 Today, we are headed to the Grand Canyon National Park on a hike along the southern rim.
 
-  {% include thumbnailed-image.html url="20160718-193245.jpg" rotation="0"
+  {% include image.html url="20160718-193245.jpg"
     description="The bark and sap of the pinyon pine. Pinyon-juniper forests extend on both the North and South rims of the Grand Canyon." %}
-  {% include thumbnailed-image.html url="20160718-194535.jpg" rotation="0"
+  {% include image.html url="20160718-194535.jpg"
     description="The Grand Canyon as seen from the Hermit's Rest point" %}
   {% include thumbnailed-image.html url="20160718-195727.jpg" rotation="-14.69"
     description="The Grand Canyon as seen from the southern rim" %}
@@ -20,9 +20,9 @@ Today, we are headed to the Grand Canyon National Park on a hike along the south
     description="A rainstorm at the northern rim of the Grand Canyon" %}
   {% include thumbnailed-image.html url="20160718-230500.jpg" rotation="-35.03"
     description="The Grand Canyon as seen from the visitors center" %}
-  {% include thumbnailed-image.html url="20160718-232127.jpg" rotation="0"
+  {% include image.html url="20160718-232127.jpg"
     description="The Grand Canyon after a rainstorm" %}
-  {% include thumbnailed-image.html url="20160718-232317.jpg" rotation="0"
+  {% include image.html url="20160718-232317.jpg"
     description="The interior of the Desert View watchtower" %}
 
 Our next stop will be the Monument Valley.

@@ -1,0 +1,11 @@
+#!/bin/bash
+# Prepares thumbnails for rotated images.
+grep 'include thumbnailed-image.html .* rotation' ../_posts/*.md |
+sed -r 's/.*url="([^"]*)" rotation="([^"]*)".*/\2 \1/' |
+while read ROTATION URL; do
+  [[ -e thumbnails/"$URL" ]] &&
+  printf 'Skipping %s.\n' "$URL" || {
+    convert "$URL" -scale 50% -quality 100% -rotate $ROTATION thumbnails/"$URL" &&
+    jpegoptim -m70 thumbnails/"$URL" || exit 1
+  }
+done

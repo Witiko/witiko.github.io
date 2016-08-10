@@ -15,11 +15,11 @@ to Arizona. And what a better place to rest than the Hollywood Boulevard.
     description="The Hollywood and Highland Center" %}
  {% include thumbnailed-image.html url="20160712-223054.jpg" rotation="25.98"
     description="Hollywood Boulevard as seen from the Hollywood and Highland Center" %}
- {% include thumbnailed-image.html url="20160712-224612.jpg" rotation="0"
+ {% include image.html url="20160712-224612.jpg"
     description="A Star Trek: Beyond chalk drawing in front of the Mann's Chinese Theatre" %}
  {% include thumbnailed-image.html url="20160712-225114.jpg" rotation="-27.06"
     description="The Mann's Chinese Theatre" %}
- {% include thumbnailed-image.html url="20160712-231440.jpg" rotation="0"
+ {% include image.html url="20160712-231440.jpg"
     description="Me standing on the Jimmy Kimmel's tile on the Walk of Fame in front of the Jimmy Kimmel Live studio" %}
 
 We even got to catch a short glimpse of the Hollywood Forever Cemetry. The main mausoleum (the Abbey of Psalms) was already closed, however.
@@ -28,5 +28,5 @@ We even got to catch a short glimpse of the Hollywood Forever Cemetry. The main 
     description="A Hindu shrine" %}
  {% include thumbnailed-image.html url="20160712-235335.jpg" rotation="-40"
     description="The Garden of Ruth" %}
- {% include thumbnailed-image.html url="20160712-235509.jpg" rotation="0"
+ {% include image.html url="20160712-235509.jpg"
     description="A completely legitimate tombstone of agent JC Denton in the Garden of Memory" %}

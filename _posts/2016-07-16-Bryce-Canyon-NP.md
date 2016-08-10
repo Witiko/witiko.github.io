@@ -6,11 +6,11 @@ tags:
   - travel
 ---
 
-Today, we are headed to the Bryce Canyon national park.
+Today, we are headed to the Bryce Canyon National Park.
 
   {% include thumbnailed-image.html url="20160716-170044.jpg" rotation="-7.72"
     description="The Agua Canyon Overlook" %}
-  {% include thumbnailed-image.html url="20160716-170824.jpg" rotation="0"
+  {% include image.html url="20160716-170824.jpg"
     description="The Natural Bridge Overlook" %}
   {% include thumbnailed-image.html url="20160716-181621.jpg" rotation="6.69"
     description="The Inspection Point Overlook" %}
@@ -20,7 +20,7 @@ Today, we are headed to the Bryce Canyon national park.
     description="The Navajo Loop Trail" %}
   {% include thumbnailed-image.html url="20160716-190128.jpg" rotation="13.19"
     description="The Thor's Hammer hoodoo at the Navajo Loop Trail" %}
-  {% include thumbnailed-image.html url="20160716-192650.jpg" rotation="0"
+  {% include image.html url="20160716-192650.jpg"
     description="A ground squirrel at the Navajo Loop Trail" %}
 
 During the rest of the day, we moved to Page, Arizona.

@@ -1,0 +1,13 @@
+#!/bin/bash
+# Sequentially opens GIMP with all images that are included in posts,
+# but there is no rotation information available. Input the rotation
+# of the image on individual lines.
+for i in *.jpg; do
+  grep -qF 'thumbnailed-image.html .* $i' ../_posts/*.md &&
+    ! grep -F $i ../_posts/*.md | grep -qF rotation || continue
+  gimp $i & {
+  read line
+  line="$(sed 's/,/./g' <<<"$line")"
+  [[ -z $line ]] && line=0
+  sed -i 's/url="'$i'"/& rotation="'$line'"/g' ../_posts/*.md; }
+done

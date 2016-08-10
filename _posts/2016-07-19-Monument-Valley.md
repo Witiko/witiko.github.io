@@ -12,9 +12,9 @@ Today, we are headed to the Monument Valley -- a national park at the northern r
     description="The West (left) and the East Mitten (right) buttes as seen from a pull-in near the entrance to the national park" %}
   {% include thumbnailed-image.html url="20160719-170451.jpg" rotation="15.30"
     description="A view of the Rain God Mesa from the Valley Road" %}
-  {% include thumbnailed-image.html url="20160719-171350.jpg" rotation="0"
+  {% include image.html url="20160719-171350.jpg"
     description="A view of the Rain God Mesa from the Valley Road. At the base of the mesa, there is a small navajo settlement." %}
-  {% include thumbnailed-image.html url="20160719-171707.jpg" rotation="0"
+  {% include image.html url="20160719-171707.jpg"
     description="A view of the Rain God Mesa from the Valley Road" %}
   {% include thumbnailed-image.html url="20160719-172417.jpg" rotation="-11.37"
     description="A wild horse in front of the Totem Pole and Yei Bi Chei buttes as seen from the Valley Road" %}
@@ -22,13 +22,13 @@ Today, we are headed to the Monument Valley -- a national park at the northern r
     description="A view of the Spearhead Mesa from the Valley Road" %}
   {% include thumbnailed-image.html url="20160719-180607.jpg" rotation="-39.82"
     description="A rock formation near the Cly Butte" %}
-  {% include thumbnailed-image.html url="20160719-180932.jpg" rotation="0"
+  {% include image.html url="20160719-180932.jpg"
     description="A look to the northwest from the North Window Overlook" %}
-  {% include thumbnailed-image.html url="20160719-181906.jpg" rotation="0"
+  {% include image.html url="20160719-181906.jpg"
     description="A look to the northwest through the visors of the Elephant (left) and Cly (right) buttes from a point near the North Window Overlook." %}
-  {% include thumbnailed-image.html url="20160719-183313.jpg" rotation="0"
+  {% include image.html url="20160719-183313.jpg"
     description="A view of the West Mitten (left), Merrick (center), and the East Mitten buttes (right) from the Valley Road" %}
   {% include thumbnailed-image.html url="20160719-184913.jpg" rotation="-30"
     description="The Merrick (left) and the East Mitten (right) buttes as seen from the Visitors Center" %}
 
-Our next stop will be the Mesa Verde national park.
+Our next stop will be the Mesa Verde National Park.

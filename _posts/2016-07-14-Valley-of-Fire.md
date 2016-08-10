@@ -8,13 +8,13 @@ tags:
 
 Today, we are moving from California to Utah across the southern rim of Nevada and the northern rim of Arizona and we are visiting the Valley of Fire state park along the way.
 
- {% include thumbnailed-image.html url="20160714-214413.jpg" rotation="0"
+ {% include image.html url="20160714-214413.jpg"
     description="Red sandstone rocks near the western entrance to the park" %}
  {% include thumbnailed-image.html url="20160714-214921.jpg" rotation="-17.02"
     description="A beehive-shaped red sandstone rock near the western entrance to the park" %}
- {% include thumbnailed-image.html url="20160714-215112.jpg" rotation="0"
+ {% include image.html url="20160714-215112.jpg"
     description="A red sandstone rock formation near the western entrance to the park" %}
- {% include thumbnailed-image.html url="20160714-224630.jpg" rotation="0"
+ {% include image.html url="20160714-224630.jpg"
     description="The Grand Staircase -- limestone (bottom), red sandstone (middle)" %}
  {% include thumbnailed-image.html url="20160714-230423.jpg" rotation="30.21"
     description="Limestone rock formations along the White Domes Road" %}
@@ -22,7 +22,7 @@ Today, we are moving from California to Utah across the southern rim of Nevada a
     description="The landscape at the beginning of the Fire Wave trail" %}
  {% include thumbnailed-image.html url="20160714-231703.jpg" rotation="22.85"
     description="The landscape at the beginning of the Fire Wave trail" %}
- {% include thumbnailed-image.html url="20160715-001024.jpg" rotation="0"
+ {% include image.html url="20160715-001024.jpg"
     description="A red sandstone rock formation along the White Domes Road" %}
  {% include thumbnailed-image.html url="20160715-003603.jpg" rotation="-3.04"
     description="One of the Seven Sisters red sandstone rock formations" %}

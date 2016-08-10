@@ -13,11 +13,11 @@ Joshua Tree National Park.
     description="A joshua tree near the west entrance to the park" %}
  {% include thumbnailed-image.html url="20160713-185654.jpg" rotation="-34.58"
     description="The bark of a joshua tree" %}
- {% include thumbnailed-image.html url="20160713-185819.jpg" rotation="0"
+ {% include image.html url="20160713-185819.jpg"
     description="A close-up of a creosote bush" %}
- {% include thumbnailed-image.html url="20160713-191318.jpg" rotation="0"
+ {% include image.html url="20160713-191318.jpg"
     description="Heaps of rocks -- another staple of the Joshua Tree National Park landscape" %}
- {% include thumbnailed-image.html url="20160713-192109.jpg" rotation="0"
+ {% include image.html url="20160713-192109.jpg"
     description="Despite the high temperatures, patches of lichen can be found in the part of the national park that intersects the higher Mohave Desert." %}
  {% include thumbnailed-image.html url="20160713-194126.jpg" rotation="-19.86"
     description="The park is ripe with camping sites." %}
