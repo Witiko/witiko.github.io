@@ -29,6 +29,6 @@ Today, we are headed to the Monument Valley -- a national park at the northern r
   {% include image.html url="20160719-183313.jpg"
     description="A view of the West Mitten (left), Merrick (center), and the East Mitten buttes (right) from the Valley Road" %}
   {% include thumbnailed-image.html url="20160719-184913.jpg" rotation="-30"
-    description="The Merrick (left) and the East Mitten (right) buttes as seen from the Visitors Center" %}
+    description="The Merrick (left) and the East Mitten (right) buttes as seen from the Visitor Center" %}
 
 Our next stop will be the Mesa Verde National Park.

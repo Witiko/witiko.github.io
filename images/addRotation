@@ -3,8 +3,8 @@
 # but there is no rotation information available. Input the rotation
 # of the image on individual lines.
 for i in *.jpg; do
-  grep -qF 'thumbnailed-image.html .* $i' ../_posts/*.md &&
-    ! grep -F $i ../_posts/*.md | grep -qF rotation || continue
+  grep -qF 'thumbnailed-image.html url="'"$i"'"' ../_posts/*.md &&
+    ! grep -F "$i" ../_posts/*.md | grep -qF rotation || continue
   gimp $i & {
   read line
   line="$(sed 's/,/./g' <<<"$line")"
