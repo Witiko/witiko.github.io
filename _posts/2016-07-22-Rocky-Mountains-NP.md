@@ -18,7 +18,7 @@ Today, we are headed to the Rocky Mountains National Park.
      description="A view from the Farview Curve of the Trail Ridge Road" %}
   {% include image.html url="20160722-175258.jpg"
      description="The Poudre Lake as seen from the Ute Trailhead" %}
-  {% include image.html url="20160722-175258.jpg"
+  {% include thumbnailed-image.html url="20160722-175544.jpg" rotation="-43.22"
      description="The Poudre Lake as seen from near the Ute Trailhead" %}
   {% include image.html url="20160722-180608.jpg"
      description="A White Marsh Marigold by the Ute Trail" %}
