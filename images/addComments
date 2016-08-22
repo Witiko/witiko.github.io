@@ -1,0 +1,8 @@
+#!/bin/bash
+# Adds image description as EXIF comments.
+sed -nr '/image.html/N;s/.*url="([^"]*)".*\n.*description="([^"]*)".*/\1 \2/p' ../_posts/*.md |
+while read IMAGE DESCRIPTION; do
+  [[ -z $DESCRIPTION ]] ||
+  [[ $DESCRIPTION = "`exiftool -comment $IMAGE | sed 's/^Comment *: //'`" ]] ||
+  exiftool -comment="$DESCRIPTION" -overwrite_original $IMAGE
+done

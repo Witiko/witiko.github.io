@@ -11,7 +11,7 @@ to Arizona. And what a better place to rest than the Hollywood Boulevard.
 
  {% include thumbnailed-image.html url="20160712-131902.jpg" rotation="22.66"
     description="The Hollywood Sign on Mt Lee as seen from the Hollywood and Highland Center" %}
- {% include thumbnailed-image.html url="20160712-132738.jpg" rotation="19.03"
+ {% include thumbnailed-image.html url="20160712-132738.jpg" rotation="15.83"
     description="The Hollywood and Highland Center" %}
  {% include thumbnailed-image.html url="20160712-223054.jpg" rotation="25.98"
     description="Hollywood Boulevard as seen from the Hollywood and Highland Center" %}

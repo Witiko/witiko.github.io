@@ -3,3 +3,4 @@ all:
 	./addRotation
 	./removeZeroRotation
 	./generateThumbs
+	./addComments
