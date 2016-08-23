@@ -10,11 +10,11 @@ Today, we are headed to the Mesa Verde National Park, where the dwellings of the
 
   {% include image.html url="20160720-162505.jpg"
     description="The Square Tower House inside the alcove in the east side of the Navajo Canyon" %}
-  {% include thumbnailed-image.html url="20160720-171131.jpg" rotation="9.68"
+  {% include image.html url="20160720-171131.jpg" rotation="9.68"
     description="The Cliff Palace in the east side of the Cliff Canyon. Sadly, there is no self-guided option for the palace and all the today's guided tours were already booked." %}
   {% include image.html url="20160720-185918.jpg"
     description="A two-store building in the northern part of the Balcony House cliff dwelling complex. Balcony House is located inside an alcove in the west side of the Soda Canyon. There is no self-guided option for the Balcony House either, but there were thankfully still tickets available." %}
-  {% include thumbnailed-image.html url="20160720-191622.jpg" rotation="22.32"
+  {% include image.html url="20160720-191622.jpg" rotation="22.32"
     description="A kiva -- a round underground building used presumably for combined religious, social, and utilitarian purposes -- in the southern part of the Balcony House cliff dwelling complex" %}
   {% include image.html url="20160720-191710.jpg"
     description="A building in the southern part of the Balcony House cliff dwelling complex" %}

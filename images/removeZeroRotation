@@ -1,2 +1,2 @@
 #!/bin/sh
-sed -ri 's/thumbnailed-(image\.html .*) rotation="0"/\1/' ../_posts/*.md
+sed -ri 's/(image\.html .*) rotation="0"/\1/' ../_posts/*.md
