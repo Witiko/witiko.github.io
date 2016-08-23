@@ -1,0 +1,11 @@
+#!/bin/bash
+# Prepares thumbnails for videos.
+for VIDEO in *.webm; do
+  [[ -e "thumbnails/${VIDEO}.jpg" ]] &&
+    printf 'Skipping %s.\n' "$VIDEO" || {
+    { ffmpeg -ss 60 -i "$VIDEO" -vcodec mjpeg -vframes 1 -an -f rawvideo    "thumbnails/${VIDEO}.jpg" && [[ -s "thumbnails/${VIDEO}.jpg" ]] ||
+      ffmpeg -ss 10 -i "$VIDEO" -vcodec mjpeg -vframes 1 -an -f rawvideo -y "thumbnails/${VIDEO}.jpg" && [[ -s "thumbnails/${VIDEO}.jpg" ]] ||
+      ffmpeg -ss 5  -i "$VIDEO" -vcodec mjpeg -vframes 1 -an -f rawvideo -y "thumbnails/${VIDEO}.jpg"; } ||
+    jpegoptim -m70 "thumbnails/${VIDEO}.jpg" || exit 1;
+  }
+done
