@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Yellowstone National Park #2 – Norris, Mammoth Hot Springs, and Tower-Roosevelt
+title: The Yellowstone National Park – Norris, Mammoth Hot Springs, and Tower-Roosevelt
 tags:
   - usa2016
   - travel

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Yellowstone National Park #1 – Old Faithful
+title: The Yellowstone National Park – Old Faithful
 tags:
   - usa2016
   - travel
