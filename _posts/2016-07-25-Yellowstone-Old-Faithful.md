@@ -48,7 +48,7 @@ After finishing the West Thumb Basin Trail, we moved to the Old Faithful area.
      description="A geothermal pool" %}
   {% include image.html url="20160726-001202.jpg"
      description="The Belgian Pool" %}
-  {% include image.html url="20160726-001836.jpg"
+  {% include image.html url="20160726-001836.jpg" rotation="3.39"
      description="The Chromatic Pool" %}
   {% include image.html url="20160726-004219.jpg"
      description="The Crested Pool" %}
