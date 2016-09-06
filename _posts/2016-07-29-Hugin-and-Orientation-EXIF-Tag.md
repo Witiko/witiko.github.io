@@ -5,6 +5,7 @@ tags:
   - linux
   - snippet
   - photography
+  - programming
 ---
 
 Lately, I have been stitching some of the panoramas I took during the vacation using [Hugin](http://hugin.sourceforge.net). Since I took quite a lot of these, I though I would leverage the shell and let Hugin create the panoramas automatically using the workflow described at <http://wiki.panotools.org/Panorama_scripting_in_a_nutshell>.
