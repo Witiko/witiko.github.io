@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hugin Doesn't Abide the Orientation EXIF Tag
+title: Hugin does not follow the orientation EXIF tag
 tags:
   - linux
   - snippet
