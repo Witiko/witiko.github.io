@@ -23,8 +23,12 @@ body {
   color: $darkGray;
 }
 
+figure + figure {
+  padding-top: 1.5em;
+}
+
 figcaption {
-  padding-bottom: 2.5em;
+  padding-bottom: 1em;
 }
 
 figcaption em {
