@@ -19,7 +19,7 @@ This is our second day in the Yellowstone national park. Our plan for today is t
 
 Following the Grand Loop Road to the north, our next stop is the Norris Geyser Basin.
 
-  {% include image.html url="20160726-174449.jpg"
+  {% include image.html url="20160726-174449.jpg" rotation="42.56"
      description="A hot spring" %}
   {% include image.html url="20160726-174822.jpg"
      description="A view of the area south of the Norris Geyser Basin" %}

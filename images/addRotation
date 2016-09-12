@@ -4,7 +4,7 @@
 # of the image on individual lines.
 for i in *.jpg; do
   [[ -e "thumbnails/$i" ]] && continue
-  gimp $i & {
+  gimp-2.8 $i & {
   read line
   line="$(sed 's/,/./g' <<<"$line")"
   [[ -z $line ]] && line=0
