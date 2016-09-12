@@ -26,7 +26,9 @@ We even got to catch a short glimpse of the Hollywood Forever Cemetry. The main 
 
  {% include image.html url="20160712-233823.jpg" rotation="-17.82"
     description="A Hindu shrine" %}
+<!--
  {% include image.html url="20160712-235335.jpg" rotation="-40"
     description="The Garden of Ruth" %}
  {% include image.html url="20160712-235509.jpg"
     description="A completely legitimate tombstone of agent JC Denton in the Garden of Memory" %}
+-->
