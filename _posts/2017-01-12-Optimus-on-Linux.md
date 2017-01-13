@@ -8,21 +8,25 @@ tags:
   - notebook
 ---
 
-I recently acquired a DELL Inspiron 15 notebook and decided to supplement the
-pre-installed Windows OS with Debian Linux (Stretch), which has been my daily
-driver OS for about two years now and [will soon become][stretch] the stable
-Debian version. The machine contains two GPUs—an integrated Intel 915G GPU, and
-a dedicated nVidia GTX960M GPU—that are interconnected via the the nVidia
-Optimus GPU switching technology.
+I recently acquired a DELL Inspiron 15 7559 notebook and decided to supplement
+the pre-installed Windows OS with Debian Linux (Stretch), which has been my
+daily driver OS for about two years now and [will soon become][stretch] the
+stable Debian version. The machine contains two GPUs—an integrated Intel 915G
+GPU, and a dedicated nVidia GTX960M GPU—that are interconnected via the the
+nVidia Optimus GPU switching technology.
+
+{% include image.html url="dell-inspiron-15.png"
+   description="DELL Inspiron 15 7559"
+   source="pcadvisor.co.uk" %}
 
 On Linux, one may either use a free [“nouveau” driver][nouveau], or the
 proprietary nVidia driver. GPU computations using CUDA can only be done with
 the proprietary nVidia driver and the [performance][perf] is also heavily in
 nVidia's favour at the time of writing. There is, however, value to running a
-completely free software stack, so the choice between the two might still pose
-a dilemma.
+completely free software stack, so the choice between the two may still pose
+a dilemma to some.
 
-Regardless of the drivers, it is now necessary to deploy some system that will
+Regardless of the drivers, it now necessary to deploy some system that will
 switch between the two GPUs as necessary. On Windows, the nVidia drivers will
 automatically switch between the GPUs in an attempt to minimize power
 consumption when the notebook is idle. Linux, on the other hand, has a free
