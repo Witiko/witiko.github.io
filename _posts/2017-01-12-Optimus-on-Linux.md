@@ -48,6 +48,7 @@ firmware bug][] that manifests itself only when the OS is introduced as Windows
 10 to the GPU over the ACPI protocol. To use a different OS identifier as a
 workaround, insert `acpi_osi=! acpi_osi="Windows 2009"` as kernel parameters
 into your `/etc/default/grub` GRUB configuration template:
+
 ```
 GRUB_DEFAULT=0
 GRUB_TIMEOUT=5
@@ -58,6 +59,7 @@ GRUB_CMDLINE_LINUX=""
 # Bumblebee 3.2.1 fix (see https://github.com/Bumblebee-Project/Bumblebee/issues/764)
 GRUB_CMDLINE_LINUX_DEFAULT="$GRUB_CMDLINE_LINUX_DEFAULT "'acpi_osi=! acpi_osi="Windows 2009"'
 ```
+
 and generate the actual GRUB configuration file by running `sudo update-grub2`.
 
  [perf]: http://www.phoronix.com/scan.php?page=article&item=nvidia_2d_openclose "Linux 2D Performance: Nouveau vs. NVIDIA"
