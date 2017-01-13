@@ -17,7 +17,7 @@ nVidia Optimus GPU switching technology.
 
 {% include image.html url="dell-inspiron-15.png"
    description="DELL Inspiron 15 7559"
-   source="pcadvisor.co.uk" %}
+   source="http://www.pcadvisor.co.uk/review/laptops/dell-inspiron-15-7559-review-3630792/" %}
 
 On Linux, one may either use a free [“nouveau” driver][nouveau], or the
 proprietary nVidia driver. GPU computations using CUDA can only be done with
