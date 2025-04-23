@@ -10,7 +10,11 @@
     <![endif]-->
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+    {% if page.tag %}
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} – Articles tagged with “{{ page.tag }}”" href="{{ site.baseurl }}/tag/{{ page.tag }}.xml" />
+    {% else %}
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} – {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+    {% endif %}
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>

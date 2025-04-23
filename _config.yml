@@ -73,9 +73,15 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-gems:
+plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+
+# Configure the jekyll-tagging gem
+tag_page_layout: tag_page
+tag_feed_layout: tag_feed
+tag_page_dir: tag
+tag_feed_dir: tag
 
 # Exclude these files from your production _site
 exclude:
@@ -84,3 +90,4 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - vendor
