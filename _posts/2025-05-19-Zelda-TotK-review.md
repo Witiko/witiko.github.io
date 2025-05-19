@@ -2,7 +2,7 @@
 layout: post
 title: "Review of The Legend of Zelda: Tears of the Kingdom after ~10 hours"
 tags:
-  - games
+  - videogames
   - review
 date: 2025-05-19
 excerpt_separator: <!-- more -->
@@ -12,7 +12,7 @@ excerpt_separator: <!-- more -->
 layout: post
 title: "Review of The Legend of Zelda: Tears of the Kingdom after ~10 hours"
 tags:
-  - games
+  - videogames
   - review
 date: 2025-05-19
 excerpt_separator: <!-- more -->

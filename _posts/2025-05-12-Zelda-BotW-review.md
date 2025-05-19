@@ -2,7 +2,7 @@
 layout: post
 title: "Review of The Legend of Zelda: Breath of the Wild after ~100 hours of blind playthrough"
 tags:
-  - games
+  - videogames
   - review
 date: 2025-05-12
 excerpt_separator: <!-- more -->
