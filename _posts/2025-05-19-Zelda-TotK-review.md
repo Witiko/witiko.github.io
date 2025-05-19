@@ -8,16 +8,6 @@ date: 2025-05-19
 excerpt_separator: <!-- more -->
 ---
 
----
-layout: post
-title: "Review of The Legend of Zelda: Tears of the Kingdom after ~10 hours"
-tags:
-  - videogames
-  - review
-date: 2025-05-19
-excerpt_separator: <!-- more -->
----
-
 I recently finished and [reviewed][1] _The Legend of Zelda: Breath of the Wild_ (BotW, 2017). In this article, I'll share my early thoughts after about 10 hours spent with its sequel, _The Legend of Zelda: Tears of the Kingdom_ (TotK, 2023).
 
 <!-- more -->
