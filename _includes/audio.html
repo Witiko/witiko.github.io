@@ -1,0 +1,9 @@
+<figure>
+  <audio controls>
+   <source src="{{ site.baseurl }}/sounds/{{ include.url }}" type="audio/m4a">
+   Your browser does not support the audio tag.
+  </audio>
+  {% if include.description %}
+    <figcaption>Audio: <em>{{ include.description }}</em></figcaption>
+  {% endif %}
+</figure>

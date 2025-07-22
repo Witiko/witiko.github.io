@@ -2,8 +2,10 @@
   <a href="{{ site.baseurl }}/images/{{ include.url }}" target="_blank">
     <img src="{{ site.baseurl }}/images/thumbnails/{{ include.url }}" alt="Image: {{ include.description }}"/>
   </a>
-  <figcaption>Image: <em>{{ include.description }}</em>
-  {% if include.source %}
-    (<a href="{{ include.source }}" target="_blank">Image source</a>)
-  {% endif %}</figcaption>
+  {% if include.description %}
+    <figcaption>Image: <em>{{ include.description }}</em>
+    {% if include.source %}
+      (<a href="{{ include.source }}" target="_blank">Image source</a>)
+    {% endif %}</figcaption>
+  {% endif %}
 </figure>
