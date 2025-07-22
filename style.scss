@@ -24,7 +24,11 @@ body {
 }
 
 figure + figure {
-  padding-top: 1.5em;
+  padding-top: 0.5em;
+}
+
+p + figure:has(figcaption) {
+  padding-top: 1em;
 }
 
 figcaption {
