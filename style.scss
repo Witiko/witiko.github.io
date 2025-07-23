@@ -31,6 +31,10 @@ p + figure:has(figcaption) {
   padding-top: 1em;
 }
 
+audio {
+  width: 100%;
+}
+
 figcaption {
   padding-bottom: 1em;
 }
