@@ -27,6 +27,10 @@ figure + figure {
   padding-top: 0.5em;
 }
 
+figure iframe {
+  max-width: 100%;
+}
+
 p + figure:has(figcaption) {
   padding-top: 1em;
 }
