@@ -11,8 +11,8 @@ tags:
 I recently acquired a DELL Inspiron 15 7559 notebook and decided to supplement
 the pre-installed Windows OS with Debian Linux (Stretch), which has been my
 daily driver OS for about two years now and [will soon become][stretch] the
-stable Debian version. The machine contains two GPUs—an integrated Intel 915G
-GPU, and a dedicated nVidia GTX960M GPU—that are interconnected via the the
+stable Debian version. The machine contains two GPUs&thinsp;—&thinsp;an integrated Intel 915G
+GPU, and a dedicated nVidia GTX960M GPU&thinsp;—&thinsp;that are interconnected via the the
 nVidia Optimus GPU switching technology.
 
 {% include image.html url="dell-inspiron-15.png"

@@ -37,7 +37,7 @@ Besides Zelda, my experience with open-world games is limited. Aside from _Baldu
 ### Why emulate on Steam Deck?
 I own the original Switch version of BotW, but I chose to play it on Ryujinx for several reasons.
 
-First, the game runs beautifully on my Steam Deck OLED, including full gyroscope support via [SteamDeckGyroDSU][1], with next to no tinkering—a technical feat I find genuinely impressive and worth highlighting.
+First, the game runs beautifully on my Steam Deck OLED, including full gyroscope support via [SteamDeckGyroDSU][1], with next to no tinkering&thinsp;—&thinsp;a technical feat I find genuinely impressive and worth highlighting.
 
   {% include image.html url="20250411_134208.jpg"
     description="Exploring Hyrule on my Steam Deck OLED" %}
@@ -68,14 +68,14 @@ Once players leave the Great Plateau, they receive the game's signature item, th
 ### Strong points
 BotW's strength lies in its deceptively simple core loop: climb towers to reveal parts of the world map, spot interesting landmarks from those high vantage points, and glide down to explore them, discovering even more points of interest along the way. This creates a nearly endless feedback loop of exploration and discovery, driven by curiosity rather than explicit markers or objectives.
 
-What's remarkable is just how much this simplicity accomplishes. The game reveals nearly all of its major systems in the first hour and then relies on them for the rest of its 100+ hour playtime. There are no intricate skill trees, endless collectible lists, or sprawling quest lines—just an expectation that players will find satisfaction in the sheer act of discovery. For a big-budget title, this is a strikingly bold choice.
+What's remarkable is just how much this simplicity accomplishes. The game reveals nearly all of its major systems in the first hour and then relies on them for the rest of its 100+ hour playtime. There are no intricate skill trees, endless collectible lists, or sprawling quest lines&thinsp;—&thinsp;just an expectation that players will find satisfaction in the sheer act of discovery. For a big-budget title, this is a strikingly bold choice.
 
   {% include image.html url="20250512105917_1.jpg"
-    description="Mining an ore deposit near the Dueling Peaks Stable—because the economy of Hyrule runs on shiny rocks" %}
+    description="Mining an ore deposit near the Dueling Peaks Stable&thinsp;—&thinsp;because the economy of Hyrule runs on shiny rocks" %}
 
 The climbing system, while seemingly a small addition, fundamentally changes how players move through the world. It allows for truly free-form exploration, making every mountain peak a potential vantage point and every cliff a potential shortcut. Few other games have captured this sense of freedom, and it's hard to overstate its impact on the overall experience.
 
-This freedom is further enhanced by the paraglider, which, while not entirely new to the series—having appeared in earlier forms in _The Wind Waker_ (2002) and _Skyward Sword_ (2011)—synergizes perfectly with the climbing mechanic. The ability to climb to a high vantage point and then glide across vast distances gives players an unparalleled sense of agency, making every climb a meaningful choice and every peak a potential launchpad for further exploration.
+This freedom is further enhanced by the paraglider, which, while not entirely new to the series&thinsp;—&thinsp;having appeared in earlier forms in _The Wind Waker_ (2002) and _Skyward Sword_ (2011)—synergizes perfectly with the climbing mechanic. The ability to climb to a high vantage point and then glide across vast distances gives players an unparalleled sense of agency, making every climb a meaningful choice and every peak a potential launchpad for further exploration.
 
   {% include image.html url="20250512105244_1.jpg"
     description="Dodging a Guardian's laser" %}
