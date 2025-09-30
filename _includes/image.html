@@ -1,6 +1,11 @@
 <figure>
   <a href="{{ site.baseurl }}/images/{{ include.url }}" target="_blank">
-    <img src="{{ site.baseurl }}/images/thumbnails/{{ include.url }}"
+    <img
+      {% if include.thumburl %}
+        src="{{ site.baseurl }}/images/thumbnails/{{ include.thumburl }}"
+      {% else %}
+        src="{{ site.baseurl }}/images/thumbnails/{{ include.url }}"
+      {% endif %}
       {% if include.alt %}
         alt="{{ include.alt }}"
       {% elsif include.description %}
