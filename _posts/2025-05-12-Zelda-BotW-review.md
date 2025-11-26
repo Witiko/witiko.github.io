@@ -75,7 +75,7 @@ What's remarkable is just how much this simplicity accomplishes. The game reveal
 
 The climbing system, while seemingly a small addition, fundamentally changes how players move through the world. It allows for truly free-form exploration, making every mountain peak a potential vantage point and every cliff a potential shortcut. Few other games have captured this sense of freedom, and it's hard to overstate its impact on the overall experience.
 
-This freedom is further enhanced by the paraglider, which, while not entirely new to the series&thinsp;—&thinsp;having appeared in earlier forms in _The Wind Waker_ (2002) and _Skyward Sword_ (2011)—synergizes perfectly with the climbing mechanic. The ability to climb to a high vantage point and then glide across vast distances gives players an unparalleled sense of agency, making every climb a meaningful choice and every peak a potential launchpad for further exploration.
+This freedom is further enhanced by the paraglider, which, while not entirely new to the series&thinsp;—&thinsp;having appeared in earlier forms in _The Wind Waker_ (2002) and _Skyward Sword_ (2011)&thinsp;—&thinsp;synergizes perfectly with the climbing mechanic. The ability to climb to a high vantage point and then glide across vast distances gives players an unparalleled sense of agency, making every climb a meaningful choice and every peak a potential launchpad for further exploration.
 
   {% include image.html url="20250512105244_1.jpg"
     description="Dodging a Guardian's laser" %}
