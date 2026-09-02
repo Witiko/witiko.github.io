@@ -24,7 +24,7 @@ Bizzare Adventure: Diamond is Unbreakable OST [got released][release] on July
 
   {% include soundcloud.html id="279307003"
      url="witiko/koichi-hirose-battle-theme-sono-chi-no-sadame-remix"
-     description="“JoJo's Bizarre Adventure: Phantom Echoes” at SoundCloud" %}
+     description="“JoJo's Bizarre Adventure: Phantom Echoes” on SoundCloud" %}
 
 As you may have noticed, the Sono Chi no Sadame part of the remix has been
 slowed down noticeably. This was necessary, since Yuuki and Sono Chi no Sadame
