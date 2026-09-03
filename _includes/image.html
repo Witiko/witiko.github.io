@@ -15,8 +15,11 @@
   </a>
   {% if include.description %}
     <figcaption>Image: <em>{{ include.description }}</em>
+    {% if include.attribution %}
+      | Photo by {{ include.attribution }}
+    {% endif %}
     {% if include.source %}
-      (<a href="{{ include.source }}" target="_blank">Image source</a>)
+      (<a href="{{ include.source }}" target="_blank">source</a>)
     {% endif %}</figcaption>
   {% endif %}
 </figure>

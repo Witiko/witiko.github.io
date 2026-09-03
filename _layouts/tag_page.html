@@ -4,6 +4,8 @@ layout: default
 <h2>Articles tagged with “{{ page.tag }}”</h2>
 <ul>
 {% for post in page.posts %}
+  {% unless post.unlisted %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date: "%B %e, %Y" }})</li>
+  {% endunless %}
 {% endfor %}
 </ul>

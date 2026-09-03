@@ -14,12 +14,14 @@ layout: nil
    <email>{{ site.author.email }}</email>
  </author>
  {% for post in page.posts %}
- <entry>
-   <title>{{ post.title }}</title>
-   <link href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"/>
-   <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>{{ site.url }}{{ site.baseurl }}{{ post.id }}</id>
-   <content type="html">{{ post.content | xml_escape }}</content>
- </entry>
+   {% unless post.unlisted %}
+   <entry>
+     <title>{{ post.title }}</title>
+     <link href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"/>
+     <updated>{{ post.date | date_to_xmlschema }}</updated>
+     <id>{{ site.url }}{{ site.baseurl }}{{ post.id }}</id>
+     <content type="html">{{ post.content | xml_escape }}</content>
+   </entry>
+   {% endunless %}
  {% endfor %}
 </feed>
