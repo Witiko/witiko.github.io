@@ -5,6 +5,7 @@ tags:
   - videogames
   - review
 date: 2025-05-12
+last_modified_at: 2026-09-04
 excerpt_separator: <!-- more -->
 ---
 
@@ -13,6 +14,8 @@ In this article, I will share my thoughts after spending around 100 hours playin
 <!-- more -->
 
 My playthrough was on a Steam Deck OLED using the open-source emulator _Ryujinx_, as opposed to the original Switch, for reasons I'll explain shortly.
+
+**UPDATE (2026-09-04):** If you're going to emulate the game, do yourself a favor and play the Wii U version using Cemu instead. It runs much better than the Switch version.
 
 ## Preliminaries
 To start off, let me provide some context on my background with the Zelda series, my choice to play on a Steam Deck OLED, and why I opted for emulation over the original hardware.
