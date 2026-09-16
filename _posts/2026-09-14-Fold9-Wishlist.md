@@ -4,7 +4,7 @@ title: What I Want from the Galaxy Z Fold9
 tags:
   - mobile phones
 date: 2026-09-14
-last_modified_at: 2026-09-14
+last_modified_at: 2026-09-16
 excerpt_separator: <!-- more -->
 ---
 
@@ -28,9 +28,8 @@ increasingly popular passport-style format might let me claw back some of the
 dimensions phones have gained over the years; in recent years, a phone with a
 screen smaller than 6 inches has seemed almost impossible to find.
 
-  {% include image.html url="galaxy-z-fold8-features-kv.jpg"
-     description="Samsung Galaxy Z Fold8"
-     attribution="samsung.com" %}
+  {% include image.html url="20260916_135213.jpg"
+     description="Me holding a Samsung Galaxy Z Fold8 Ultra that displays this article" %}
 
 The newly released _iPhone Duo_ makes that decision more interesting. As a
 long-time Samsung user, I am watching closely to see whether Samsung can
