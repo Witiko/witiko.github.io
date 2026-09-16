@@ -15,6 +15,9 @@
   </a>
   {% if include.description %}
     <figcaption>Image: <em>{{ include.description }}</em>
+    {% if include.addon %}
+      | {{ include.addon }}
+    {% endif %}
     {% if include.attribution %}
       | Photo by {{ include.attribution }}
     {% endif %}
