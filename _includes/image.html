@@ -14,7 +14,13 @@
     />
   </a>
   {% if include.description %}
-    <figcaption>Image: <em>{{ include.description }}</em>
+    <figcaption>
+    {% if page.lang == 'cs' %}
+      Obrázek:
+    {% else %}
+      Image:
+    {% endif %}
+    <em>{{ include.description }}</em>
     {% if include.addon %}
       | {{ include.addon }}
     {% endif %}
