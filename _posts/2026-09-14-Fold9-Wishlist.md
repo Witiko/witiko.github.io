@@ -4,7 +4,7 @@ title: What I Want from the Galaxy Z Fold9
 tags:
   - mobile phones
 date: 2026-09-14
-last_modified_at: 2026-09-16
+last_modified_at: 2026-09-28
 excerpt_separator: <!-- more -->
 ---
 
@@ -49,6 +49,10 @@ On top of that, I would love to see a telephoto lens like the one on the _Z
 Fold8 Ultra_. Despite enjoying taking photos with my DSLR, having a capable
 camera with me everywhere I go seems like a necessity these days, especially
 when I am with my kid.
+
+**UPDATE (2026-09-28):** Oh, and also magnets. Please give me a Qi2 magnetic
+array directly in the chassis, so that I can attach the device to magnetic
+chargers and other accessories without a magnetic case.
 
 Give me all of that, and I would be more than happy to make the _Z Fold9_ my
 first-ever _Fold_.
