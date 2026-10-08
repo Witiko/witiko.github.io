@@ -4,7 +4,7 @@ title: What I Want from the Galaxy Z Fold9
 tags:
   - mobile phones
 date: 2026-09-14
-last_modified_at: 2026-09-28
+last_modified_at: 2026-10-08
 excerpt_separator: <!-- more -->
 ---
 
@@ -35,7 +35,7 @@ The newly released _iPhone Duo_ makes that decision more interesting. As a
 long-time Samsung user, I am watching closely to see whether Samsung can
 copy some of its better ideas for the _Galaxy Z Fold9_: a proper laptop mode,
 speakers that provide stereo sound both folded and unfolded, S Pen support,
-MagSafe, and, given my track record of breaking phones, IP68 water and dust
+and, given my track record of breaking phones, IP68 water and dust
 resistance: an upgrade over the IP48 rating that recent _Galaxy Z Flip_ and
 _Fold_ phones have been known for, even though Google has offered full IP68
 dust and water resistance on its _Pixel Pro Fold_ line since the _Pixel 10 Pro
